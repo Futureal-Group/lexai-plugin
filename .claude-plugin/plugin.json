@@ -1,13 +1,13 @@
 {
-  "name": "ai-jogi-csapat",
-  "version": "1.0.0",
-  "description": "AI virtuális jogi csapat — 10 jogterület, § számokkal, MCP-ből",
+  "name": "kkv-jogi-csapat",
+  "version": "1.0.2",
+  "description": "Magyar KKV virtualis jogi csapat — 10 jogterulet, § szamokkal, MCP-bol",
   "author": {
-    "name": "Attila Racz",
-    "url": "https://github.com/attilafree"
+    "name": "Toth Gergo",
+    "url": "https://gergototh.co"
   },
-  "homepage": "https://github.com/attilafree/ai-legal-team",
-  "repository": "https://github.com/attilafree/ai-legal-team",
+  "homepage": "https://github.com/gergototh1/kkv-jogi-plugin",
+  "repository": "https://github.com/gergototh1/kkv-jogi-plugin",
   "license": "MIT",
-  "keywords": ["hungarian", "legal", "ai", "law", "magyar", "jog"]
+  "keywords": ["hungarian", "legal", "kkv", "law", "magyar", "jog"]
 }
