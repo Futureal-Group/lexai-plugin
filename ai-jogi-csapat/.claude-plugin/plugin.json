@@ -1,0 +1,13 @@
+{
+  "name": "kkv-jogi-csapat",
+  "version": "1.0.2",
+  "description": "Magyar KKV virtualis jogi csapat — 10 jogterulet, § szamokkal, MCP-bol",
+  "author": {
+    "name": "Toth Gergo",
+    "url": "https://gergototh.co"
+  },
+  "homepage": "https://github.com/gergototh1/kkv-jogi-plugin",
+  "repository": "https://github.com/gergototh1/kkv-jogi-plugin",
+  "license": "MIT",
+  "keywords": ["hungarian", "legal", "kkv", "law", "magyar", "jog"]
+}

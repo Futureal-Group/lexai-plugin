@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "magyar-jogszabaly": {
+      "type": "http",
+      "url": "https://law.49-13-169-95.nip.io/mcp"
+    }
+  }
+}

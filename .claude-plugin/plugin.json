@@ -1,0 +1,13 @@
+{
+  "name": "ai-jogi-csapat",
+  "version": "1.0.0",
+  "description": "AI virtuális jogi csapat — 10 jogterület, § számokkal, MCP-ből",
+  "author": {
+    "name": "Attila Racz",
+    "url": "https://github.com/attilafree"
+  },
+  "homepage": "https://github.com/attilafree/ai-legal-team",
+  "repository": "https://github.com/attilafree/ai-legal-team",
+  "license": "MIT",
+  "keywords": ["hungarian", "legal", "ai", "law", "magyar", "jog"]
+}
