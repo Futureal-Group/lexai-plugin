@@ -1,10 +1,19 @@
 {
   "name": "ai-legal-plugin",
+  "owner": {
+    "name": "Attila Racz"
+  },
+  "metadata": {
+    "description": "AI virtuális jogi csapat — 10 jogterület, valós törvényszöveg, MCP alapú"
+  },
   "plugins": [
     {
       "name": "ai-legal-team",
       "source": "./ai-legal-team",
-      "description": "AI virtuális jogi csapat — 10 jogterület, § számokkal, MCP-ből"
+      "description": "AI virtuális jogi csapat — munkajog, GDPR, szerződés, adó, cégjog és még 5 terület",
+      "version": "1.0.0",
+      "category": "legal",
+      "tags": ["hungarian", "legal", "ai", "law", "magyar", "jog"]
     }
   ]
 }
