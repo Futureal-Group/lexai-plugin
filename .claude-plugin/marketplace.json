@@ -1,0 +1,10 @@
+{
+  "name": "ai-legal-plugin",
+  "plugins": [
+    {
+      "name": "ai-legal-team",
+      "source": "./ai-legal-team",
+      "description": "AI virtuális jogi csapat — 10 jogterület, § számokkal, MCP-ből"
+    }
+  ]
+}
