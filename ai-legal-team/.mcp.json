@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "magyar-jogszabaly": {
+    "hun-law": {
       "type": "http",
       "url": "https://hun-law-mcp.up.railway.app/mcp"
     }
