@@ -1,5 +1,5 @@
 {
   "enabledPlugins": {
-    "ai-legal-team@ai-legal-plugin": true
+    "lexai@lexai-plugin": true
   }
 }

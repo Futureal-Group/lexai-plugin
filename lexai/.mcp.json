@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "hun-law": {
+    "lexmind-hu": {
       "type": "http",
       "url": "https://lexmind-hu.up.railway.app/mcp"
     }

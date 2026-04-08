@@ -1,19 +1,19 @@
 {
-  "name": "ai-legal-plugin",
+  "name": "lexai-plugin",
   "owner": {
-    "name": "Attila Racz"
+    "name": "Futureal Group"
   },
   "metadata": {
-    "description": "AI virtuális jogi csapat — 10 jogterület, valós törvényszöveg, MCP alapú"
+    "description": "LexAI legal assistant — Hungarian law powered by authoritative statute database, MCP enabled"
   },
   "plugins": [
     {
-      "name": "ai-legal-team",
-      "source": "./ai-legal-team",
-      "description": "AI virtuális jogi csapat — munkajog, GDPR, szerződés, adó, cégjog és még 5 terület",
+      "name": "lexai",
+      "source": "./lexai",
+      "description": "LexAI — munkajog, GDPR, szerződés, adó, cégjog és még 5 jogterület, valós törvényszöveg alapján",
       "version": "1.0.0",
       "category": "legal",
-      "tags": ["hungarian", "legal", "ai", "law", "magyar", "jog"]
+      "tags": ["hungarian", "legal", "lexai", "law", "futureal", "jog"]
     }
   ]
 }
