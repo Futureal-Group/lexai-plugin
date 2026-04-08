@@ -16,7 +16,7 @@ Ez a skill az összes AI jogi skill belépési pontja. Természetes magyar kérd
 
 ## Indítás
 
-Amikor a felhasználó jogi kérdést tesz fel egy AI-val kapcsolatban, ezt a skill-t kell először futtatni.
+Amikor a felhasználó jogi kérdést tesz fel egy vállalkozással vagy jogi kérdéssel kapcsolatban, ezt a skill-t kell először futtatni.
 
 ---
 
